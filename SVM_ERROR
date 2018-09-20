@@ -1,0 +1,4 @@
+SVM에서 나타나는 오류
+  오류명 : Feature numbers must be larger or equal to 1!!!
+  이는 Feature의 번호가 1 이상이여야 한다는 로그.
+  혹시 Feature의 index가 0이 있는지 또는 그 이하가 있는지 확인해야한다.
